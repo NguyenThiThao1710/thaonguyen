@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thaonguyen/static/css/main.db2c3e42.css",
+    "main.js": "/thaonguyen/static/js/main.8ce17fef.js",
+    "static/js/453.805ebd58.chunk.js": "/thaonguyen/static/js/453.805ebd58.chunk.js",
+    "index.html": "/thaonguyen/index.html",
+    "main.db2c3e42.css.map": "/thaonguyen/static/css/main.db2c3e42.css.map",
+    "main.8ce17fef.js.map": "/thaonguyen/static/js/main.8ce17fef.js.map",
+    "453.805ebd58.chunk.js.map": "/thaonguyen/static/js/453.805ebd58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db2c3e42.css",
+    "static/js/main.8ce17fef.js"
+  ]
+}
